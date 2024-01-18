@@ -1,0 +1,1 @@
+# Tectonic_Plate_Earthquakes-Prediction
